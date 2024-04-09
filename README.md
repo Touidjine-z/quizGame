@@ -19,8 +19,4 @@ Pour démarrer le jeu, suivez ces étapes :
 3. Répondez aux questions en entrant le numéro correspondant à votre choix.
 4. Si vous choisissez l'éditeur de banque de questions, suivez les instructions pour ajouter de nouvelles questions.
 
-## Rapport
-
-Un rapport détaillant les choix de conception, les choix de types de données, les défis rencontrés et la manière dont ils ont été résolus est disponible dans le fichier `Rapport.pdf`.
-
 Bonne chance et amusez-vous bien !
